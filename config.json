@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productfalidate",
+        "uuid": 24915268,
+        "checksum": "s6z34u"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
